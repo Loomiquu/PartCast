@@ -1,0 +1,11 @@
+# Project place file
+/PartCast.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+
+aftman.toml
+default.project.json
+sourcemap.json
